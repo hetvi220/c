@@ -1,0 +1,13 @@
+#include<stdio.h>
+int main()
+{
+float rate,qty,amt,bill_amt,gst,net_amt;
+printf("enter your rate : ");
+scanf("%f",&rate);
+printf("jhgftdhdctdfrtsxtjdcj
+
+
+
+
+return 0;
+}
