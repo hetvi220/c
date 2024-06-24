@@ -3,5 +3,6 @@
         "2daRR.C": "cpp",
         "CHARRAY.C": "cpp",
         "reverse.C": "cpp"
-    }
+    },
+    "C_Cpp.errorSquiggles": "disabled"
 }

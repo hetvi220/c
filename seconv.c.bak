@@ -1,9 +1,0 @@
-#include<stdio.h>
-int main ()
-{
- int num = 149;
- char word = 'Z';
- printf("%c",num);
- 
-return 0;
-}
