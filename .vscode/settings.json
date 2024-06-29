@@ -1,8 +1,9 @@
 {
-    "files.associations": {
-        "2daRR.C": "cpp",
-        "CHARRAY.C": "cpp",
-        "reverse.C": "cpp"
-    },
-    "C_Cpp.errorSquiggles": "disabled"
+  "files.associations": {
+    "2daRR.C": "cpp",
+    "CHARRAY.C": "cpp",
+    "reverse.C": "cpp",
+    "ostream": "cpp"
+  },
+  "C_Cpp.errorSquiggles": "disabled"
 }

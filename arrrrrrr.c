@@ -11,12 +11,6 @@ scanf("%d",&number[n]);
 }
 for(i=0;i<n;i++){
 printf("%d\t" ,number[i]);
-
 }
-
-
-
-}	
-	
 return 0;
 }
